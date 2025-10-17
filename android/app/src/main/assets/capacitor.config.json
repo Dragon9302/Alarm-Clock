@@ -1,0 +1,6 @@
+{
+	"appId": "org.alarmclock.app",
+	"appName": "Alarm Clock",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
