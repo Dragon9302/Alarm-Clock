@@ -1,0 +1,23 @@
+{
+  "name": "Alarm Clock PWA",
+  "short_name": "Alarm Clock",
+  "description": "A simple alarm clock with voice notifications",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMjAgMkMxMzEuMSAyIDE0MCAyLjkgMTQwIDRWMTYwQzE0MCAxNzEuMSAxMzEuMSAxODAgOTYuODkgMTgwSDE0MEMxNDAgMTgxLjY1IDE0MS4zNSAxODMgMTQzIDE4M1MxNDYgMTgxLjY1IDE0NiAxODBIMTQwVjRDMTQwIDIuOSAxMzEuMSAyIDEyMCAyWk00IDEwQzQgMTEuMSAzLjEgMTIgMiAxMloiIGZpbGw9IiM2NjdFRUEiLz4KPHBhdGggZD0iTTE0NiA0TDE0NCAyWiIgZmlsbD0iIzY2N0VFQSIvPgo8L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zMjAgNkMzNDEuMSAxMSAzNTAgMjAuOSAzNTAgMzJWNDI2QzM1MCA0MzcuMSAzNDEuMSAzNDYgMzA3Ljg5IDM0NkgzNTBDMzUwIDQ0Ny42NSAzNTEuMzUgNDQ5IDM1MyA0NDlTMzU2IDQ0Ny42NSAzNTYgNDQ2SDM1MFYzMkMzNTAgMjAuOSAzNDEuMSAxMSAzMjAgMTFaTTEwIDMwQzEwIDM2LjEgOS4xIDM3IDggMzdaIiBmaWxsPSIjNjY3RUVBIi8+CjxwYXRoIGQ9Ik0zNTYgMTJMMzU0IDhaIiBmaWxsPSIjNjY3RUVBIi8+Cjwvc3ZnPg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
